@@ -1,0 +1,238 @@
+{
+    "success": true,
+    "message": "Document uploaded, parsed, and matched successfully",
+    "documentId": "ae31ddf7-784f-4679-9b51-fc71611f8411",
+    "documentType": "invoice",
+    "poNumber": "CI4PO05788",
+    "parsedData": {
+        "invoiceNumber": "IN25MH2504251",
+        "poNumber": "CI4PO05788",
+        "invoiceDate": "2026-03-24T00:00:00.000Z",
+        "vendorName": "M/s AFP",
+        "buyerName": "ZB0059- (Swiggy Cloudstore)-Mumbai",
+        "totalAmount": 780426.87,
+        "items": [
+            {
+                "itemCode": "FG-P-F-0503",
+                "description": "PSM Cheesy Spicy Vegetable Momos 24Pcs",
+                "quantity": 50,
+                "unitPrice": 220.76,
+                "taxableValue": 11038
+            },
+            {
+                "itemCode": "FG-M-F-1703",
+                "description": "Meatigo RTC Meatigo Hot Wings 250g",
+                "quantity": 75,
+                "unitPrice": 126.67,
+                "taxableValue": 9500.25
+            },
+            {
+                "itemCode": "FG-M-F-0620",
+                "description": "Meatigo Chicken Curry Cuts 450g (5%)",
+                "quantity": 30,
+                "unitPrice": 141.14,
+                "taxableValue": 4234.2
+            },
+            {
+                "itemCode": "FG-M-F-0619",
+                "description": "Meatigo Chicken Boneless Breast 450g (5%)",
+                "quantity": 30,
+                "unitPrice": 199.05,
+                "taxableValue": 5971.5
+            },
+            {
+                "itemCode": "FG-P-F-0249",
+                "description": "PSM Pork PlainSalami200g",
+                "quantity": 75,
+                "unitPrice": 188.19,
+                "taxableValue": 14114.25
+            },
+            {
+                "itemCode": "FG-P-F-0234",
+                "description": "PSM Frozen Chicken Chilli Salami200g",
+                "quantity": 75,
+                "unitPrice": 126.67,
+                "taxableValue": 9500.25
+            },
+            {
+                "itemCode": "FG-P-F-0413",
+                "description": "PSM Frozen Chicken SeekhKabab 500g",
+                "quantity": 272,
+                "unitPrice": 228,
+                "taxableValue": 62016
+            },
+            {
+                "itemCode": "FG-M-F-0602",
+                "description": "Meatigo Chicken Drumsticks 450g (5%)",
+                "quantity": 270,
+                "unitPrice": 188.19,
+                "taxableValue": 50811.3
+            },
+            {
+                "itemCode": "FG-P-F-1707",
+                "description": "PSM Spring Roll-Chinese Veg 240g",
+                "quantity": 25,
+                "unitPrice": 119.43,
+                "taxableValue": 2985.75
+            },
+            {
+                "itemCode": "FG-M-F-0622",
+                "description": "Meatigo Chicken Keema (Mince) 450g (5%)",
+                "quantity": 360,
+                "unitPrice": 199.05,
+                "taxableValue": 71658
+            },
+            {
+                "itemCode": "FG-P-F-0505",
+                "description": "PSM Chicken Momos 24Pcs",
+                "quantity": 475,
+                "unitPrice": 220.76,
+                "taxableValue": 104861
+            },
+            {
+                "itemCode": "FG-P-F-0512",
+                "description": "PSM Spicy Chicken Momos 24Pcs",
+                "quantity": 325,
+                "unitPrice": 220.76,
+                "taxableValue": 71747
+            },
+            {
+                "itemCode": "FG-P-F-0514",
+                "description": "PSM Vegetable & Paneer Momos24Pcs",
+                "quantity": 75,
+                "unitPrice": 202.67,
+                "taxableValue": 15200.25
+            },
+            {
+                "itemCode": "FG-P-F-0335",
+                "description": "PSM Chicken Cheese & Onion Sausage 250g",
+                "quantity": 40,
+                "unitPrice": 144.76,
+                "taxableValue": 5790.4
+            },
+            {
+                "itemCode": "FG-P-F-0504",
+                "description": "PSM Chicken Momos 10Pcs",
+                "quantity": 450,
+                "unitPrice": 133.9,
+                "taxableValue": 60255
+            },
+            {
+                "itemCode": "FG-P-F-0513",
+                "description": "PSM Vegetable & Paneer Momos10Pcs",
+                "quantity": 400,
+                "unitPrice": 112.19,
+                "taxableValue": 44876
+            },
+            {
+                "itemCode": "FG-M-F-1728",
+                "description": "Meatigo RTC Everyday Chicken Breast 150g",
+                "quantity": 90,
+                "unitPrice": 119.43,
+                "taxableValue": 10748.7
+            },
+            {
+                "itemCode": "FG-P-F-0323",
+                "description": "PSM Frozen Pork Sausage250g",
+                "quantity": 40,
+                "unitPrice": 170.1,
+                "taxableValue": 6804
+            },
+            {
+                "itemCode": "FG-P-F-0236",
+                "description": "PSM Frozen PorkHam 200g",
+                "quantity": 50,
+                "unitPrice": 177.33,
+                "taxableValue": 8866.5
+            },
+            {
+                "itemCode": "FG-P-F-0580",
+                "description": "PSM Whole WheatMomos-Veg & Paneer 330g",
+                "quantity": 40,
+                "unitPrice": 162.86,
+                "taxableValue": 6514.4
+            },
+            {
+                "itemCode": "FG-P-F-0527",
+                "description": "PSM Peri Peri Veg Momos 15Pcs",
+                "quantity": 80,
+                "unitPrice": 88.67,
+                "taxableValue": 7093.6
+            },
+            {
+                "itemCode": "FG-P-F-0247",
+                "description": "PSM Frozen Chicken Salami 200g",
+                "quantity": 25,
+                "unitPrice": 137.52,
+                "taxableValue": 3438
+            },
+            {
+                "itemCode": "FG-P-F-0102",
+                "description": "PSM Frozen Pork Breakfast Bacon150g",
+                "quantity": 36,
+                "unitPrice": 152,
+                "taxableValue": 5472
+            },
+            {
+                "itemCode": "FG-P-F-0321",
+                "description": "PSM Frozen Chicken Sausage 250g",
+                "quantity": 380,
+                "unitPrice": 130.29,
+                "taxableValue": 49510.2
+            },
+            {
+                "itemCode": "FG-P-F-0581",
+                "description": "PSM Whole WheatMomos-Chicken 330g",
+                "quantity": 80,
+                "unitPrice": 170.1,
+                "taxableValue": 13608
+            },
+            {
+                "itemCode": "FG-P-F-0501",
+                "description": "PSM FS Chef Momo-Chicken 1kg",
+                "quantity": 72,
+                "unitPrice": 247.62,
+                "taxableValue": 17828.64
+            },
+            {
+                "itemCode": "FG-P-F-0564",
+                "description": "PSM Cheese & Chicken Momos540g",
+                "quantity": 25,
+                "unitPrice": 238.86,
+                "taxableValue": 5971.5
+            },
+            {
+                "itemCode": "FG-M-F-1729",
+                "description": "Meatigo RTC Everyday Fish Fillet 200g",
+                "quantity": 30,
+                "unitPrice": 188.19,
+                "taxableValue": 5645.7
+            },
+            {
+                "itemCode": "FG-P-F-0542",
+                "description": "Peri Peri Chicken Momos 250g",
+                "quantity": 640,
+                "unitPrice": 72.02,
+                "taxableValue": 46092.8
+            },
+            {
+                "itemCode": "FG-P-F-0237",
+                "description": "PSM Frozen PorkPepperoni Salami 100g",
+                "quantity": 40,
+                "unitPrice": 133.9,
+                "taxableValue": 5356
+            },
+            {
+                "itemCode": "FG-P-F-1911",
+                "description": "PSM Pizza Minis- Chicken Tikka 180g",
+                "quantity": 50,
+                "unitPrice": 115.09,
+                "taxableValue": 5754.5
+            }
+        ]
+    },
+    "matchStatus": "insufficient_documents",
+    "matchReasons": [
+        "Missing documents: GRN"
+    ]
+}

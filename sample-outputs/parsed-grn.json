@@ -1,0 +1,238 @@
+{
+    "success": true,
+    "message": "Document uploaded, parsed, and matched successfully",
+    "documentId": "714c2b34-bce1-4c5a-b364-ea22ebec9ab5",
+    "documentType": "grn",
+    "poNumber": "CI4PO05788",
+    "parsedData": {
+        "grnNumber": "CI4000020359",
+        "poNumber": "CI4PO05788",
+        "grnDate": "2026-03-24T00:00:00.000Z",
+        "invoiceNumber": "IN25MH2504251",
+        "vendorName": "M/s AFP",
+        "items": [
+            {
+                "itemCode": "11423",
+                "description": "psm Cheesy Spicy Veg Momos 24.0 Pieces",
+                "expectedQuantity": 50,
+                "receivedQuantity": 50,
+                "unitPrice": 220.76
+            },
+            {
+                "itemCode": "11797",
+                "description": "Meatigo Hot Wings 250.0 g",
+                "expectedQuantity": 75,
+                "receivedQuantity": 75,
+                "unitPrice": 126.67
+            },
+            {
+                "itemCode": "18003",
+                "description": "Meatigo Chicken Curry Cut Skinless Frozen 450.0 g",
+                "expectedQuantity": 120,
+                "receivedQuantity": 30,
+                "unitPrice": 141.14
+            },
+            {
+                "itemCode": "18004",
+                "description": "Meatigo Chicken Boneless Breast Frozen 450.0 g",
+                "expectedQuantity": 540,
+                "receivedQuantity": 30,
+                "unitPrice": 199.05
+            },
+            {
+                "itemCode": "205950",
+                "description": "psm Frozen Pork Pepperoni Salami 100.0 g",
+                "expectedQuantity": 40,
+                "receivedQuantity": 40,
+                "unitPrice": 133.91
+            },
+            {
+                "itemCode": "253430",
+                "description": "psm Pork Salami 200.0 g",
+                "expectedQuantity": 75,
+                "receivedQuantity": 75,
+                "unitPrice": 188.19
+            },
+            {
+                "itemCode": "33387",
+                "description": "psm Frozen Chicken Chilli Salami 200.0 g",
+                "expectedQuantity": 75,
+                "receivedQuantity": 75,
+                "unitPrice": 126.67
+            },
+            {
+                "itemCode": "33390",
+                "description": "psm Chicken Seekh Kebab 500.0 g",
+                "expectedQuantity": 272,
+                "receivedQuantity": 272,
+                "unitPrice": 228
+            },
+            {
+                "itemCode": "398656",
+                "description": "Meatigo Chicken Drumsticks 450.0 g",
+                "expectedQuantity": 270,
+                "receivedQuantity": 270,
+                "unitPrice": 188.19
+            },
+            {
+                "itemCode": "414867",
+                "description": "psm Chinese Veg Spring Rolls 240.0 g",
+                "expectedQuantity": 25,
+                "receivedQuantity": 25,
+                "unitPrice": 119.43
+            },
+            {
+                "itemCode": "432518",
+                "description": "Meatigo Chicken Kheema 450.0 g",
+                "expectedQuantity": 360,
+                "receivedQuantity": 360,
+                "unitPrice": 199.05
+            },
+            {
+                "itemCode": "4459",
+                "description": "psm Original Chicken Momos 24.0 Pieces",
+                "expectedQuantity": 475,
+                "receivedQuantity": 475,
+                "unitPrice": 220.76
+            },
+            {
+                "itemCode": "4460",
+                "description": "psm Spicy Chicken Momos 24.0 Pieces",
+                "expectedQuantity": 325,
+                "receivedQuantity": 325,
+                "unitPrice": 220.76
+            },
+            {
+                "itemCode": "4461",
+                "description": "psm Veg & Paneer Momos 24.0 Pieces",
+                "expectedQuantity": 75,
+                "receivedQuantity": 75,
+                "unitPrice": 202.67
+            },
+            {
+                "itemCode": "453259",
+                "description": "psm Chicken Cheese & Onion Sausage 250.0 g",
+                "expectedQuantity": 40,
+                "receivedQuantity": 40,
+                "unitPrice": 144.76
+            },
+            {
+                "itemCode": "4694",
+                "description": "psm Original Chicken Momos 10.0 Pieces",
+                "expectedQuantity": 450,
+                "receivedQuantity": 450,
+                "unitPrice": 133.91
+            },
+            {
+                "itemCode": "4697",
+                "description": "psm Veg & Paneer Momos 10.0 Pieces",
+                "expectedQuantity": 400,
+                "receivedQuantity": 400,
+                "unitPrice": 112.19
+            },
+            {
+                "itemCode": "469735",
+                "description": "Meatigo Everyday Chicken Breast (Frozen) 150.0 g",
+                "expectedQuantity": 90,
+                "receivedQuantity": 90,
+                "unitPrice": 119.43
+            },
+            {
+                "itemCode": "4699",
+                "description": "psm Pork Sausage 250.0 g",
+                "expectedQuantity": 40,
+                "receivedQuantity": 40,
+                "unitPrice": 170.1
+            },
+            {
+                "itemCode": "4700",
+                "description": "psm Pork Ham 200.0 g",
+                "expectedQuantity": 50,
+                "receivedQuantity": 50,
+                "unitPrice": 177.33
+            },
+            {
+                "itemCode": "470663",
+                "description": "psm Whole Wheat Momos - Veg & Paneer 330.0 g",
+                "expectedQuantity": 80,
+                "receivedQuantity": 40,
+                "unitPrice": 162.86
+            },
+            {
+                "itemCode": "49168",
+                "description": "psm Peri Peri Veg Momos 15.0 Pieces",
+                "expectedQuantity": 80,
+                "receivedQuantity": 80,
+                "unitPrice": 88.67
+            },
+            {
+                "itemCode": "498695",
+                "description": "psm Chicken Salami 200.0 g",
+                "expectedQuantity": 25,
+                "receivedQuantity": 25,
+                "unitPrice": 137.52
+            },
+            {
+                "itemCode": "507809",
+                "description": "psm Pizza Minis Chicken Tikka 180.0 g",
+                "expectedQuantity": 50,
+                "receivedQuantity": 50,
+                "unitPrice": 115.09
+            },
+            {
+                "itemCode": "598770",
+                "description": "psm Pork Breakfast Bacon 150.0 g",
+                "expectedQuantity": 36,
+                "receivedQuantity": 36,
+                "unitPrice": 152
+            },
+            {
+                "itemCode": "6664",
+                "description": "psm Chicken Sausages 250.0 g",
+                "expectedQuantity": 380,
+                "receivedQuantity": 380,
+                "unitPrice": 130.29
+            },
+            {
+                "itemCode": "730016",
+                "description": "psm Whole Wheat Chicken Momos 330.0 g",
+                "expectedQuantity": 80,
+                "receivedQuantity": 80,
+                "unitPrice": 170.1
+            },
+            {
+                "itemCode": "750414",
+                "description": "psm Super Saver Chicken Momo Pack (Chef Momos) 1.0 kg",
+                "expectedQuantity": 72,
+                "receivedQuantity": 72,
+                "unitPrice": 247.62
+            },
+            {
+                "itemCode": "755774",
+                "description": "psm Chicken & Cheese Momos 540.0 g",
+                "expectedQuantity": 25,
+                "receivedQuantity": 25,
+                "unitPrice": 238.86
+            },
+            {
+                "itemCode": "790919",
+                "description": "Meatigo Everyday Fish Fillet 200.0 g",
+                "expectedQuantity": 30,
+                "receivedQuantity": 30,
+                "unitPrice": 188.19
+            },
+            {
+                "itemCode": "81521",
+                "description": "psm Peri Peri Chicken Momos 250.0 g",
+                "expectedQuantity": 640,
+                "receivedQuantity": 640,
+                "unitPrice": 72.02
+            }
+        ]
+    },
+    "matchStatus": "partially_matched",
+    "matchReasons": [
+        "invoice_date_after_po_date",
+        "grn_qty_exceeds_po_qty"
+    ]
+}

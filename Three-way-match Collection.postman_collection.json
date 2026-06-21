@@ -1,0 +1,245 @@
+{
+  "info": {
+    "_postman_id": "09854e18-bf31-4541-9f4a-214dabcbfe0c",
+    "name": "Three-way-match Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "51270280"
+  },
+  "item": [
+    {
+      "name": "Upload Document Request",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "id": 0,
+              "fileUploadError": "",
+              "src": [
+                "/Users/shivamkumarrai/Downloads/GRN (1).pdf"
+              ]
+            },
+            {
+              "key": "documentType",
+              "value": "grn",
+              "type": "text",
+              "id": 1
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/upload",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Upload Document Request Copy",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "id": 0,
+              "fileUploadError": "",
+              "src": [
+                "/Users/shivamkumarrai/Downloads/PO (1).pdf"
+              ]
+            },
+            {
+              "key": "documentType",
+              "value": "po",
+              "type": "text",
+              "id": 1
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/upload",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Upload Document Request Copy 2",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "id": 0,
+              "fileUploadError": "",
+              "src": [
+                "/Users/shivamkumarrai/Downloads/Invoice (1).pdf"
+              ]
+            },
+            {
+              "key": "documentType",
+              "value": "invoice",
+              "type": "text",
+              "id": 1
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/upload",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "upload"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get match by po number",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": []
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/match/CI4PO05788",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "match",
+            "CI4PO05788"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get document by document id",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": []
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/eca8241e-891b-40f7-a93d-d37d953cfbd2",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "eca8241e-891b-40f7-a93d-d37d953cfbd2"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get document by document id Copy",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": []
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/adb69de1-cf62-437c-8370-468ff9f25a67",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "adb69de1-cf62-437c-8370-468ff9f25a67"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get document by document id Copy 2",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": []
+        },
+        "url": {
+          "raw": "http://localhost:3000/api/documents/ae31ddf7-784f-4679-9b51-fc71611f8411",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "3000",
+          "path": [
+            "api",
+            "documents",
+            "ae31ddf7-784f-4679-9b51-fc71611f8411"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

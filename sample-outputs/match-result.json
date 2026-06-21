@@ -1,0 +1,383 @@
+{
+    "success": true,
+    "poNumber": "CI4PO05788",
+    "status": "partially_matched",
+    "reasons": [
+        "invoice_date_after_po_date",
+        "grn_qty_exceeds_po_qty"
+    ],
+    "linkedDocuments": {
+        "poId": "75128e90-9755-437e-8d24-240240538519",
+        "grnIds": [
+            "714c2b34-bce1-4c5a-b364-ea22ebec9ab5"
+        ],
+        "invoiceIds": [
+            "16052deb-a2e9-46d5-87f7-e22944deee9b"
+        ]
+    },
+    "itemDetails": [
+        {
+            "itemCode": "11423",
+            "description": "psm Cheesy Spicy Veg Momos 24.0 Pieces Colour: Size: size Brand:Band_2",
+            "poQty": 50,
+            "totalGrnQty": 50,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "11797",
+            "description": "Meatigo Hot Wings 250.0 g Colour: Size: size Brand:Band_3",
+            "poQty": 75,
+            "totalGrnQty": 75,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "18003",
+            "description": "Meatigo Chicken Curry Cut Skin less Frozen 450 .0 g Colour: Size: size Brand:Band_1",
+            "poQty": 120,
+            "totalGrnQty": 30,
+            "totalInvoiceQty": 30,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "18004",
+            "description": "Meatigo Chicken Boneless Breast Frozen 450.0 g Colour: Size: size Brand:Band_1",
+            "poQty": 540,
+            "totalGrnQty": 30,
+            "totalInvoiceQty": 30,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "18906",
+            "description": "psm Spring Rolls Veg Frozen 240.0 g Colour: Size: size Brand:Band_4",
+            "poQty": 175,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "253430",
+            "description": "psm Pork Salami 200.0 g Colour: Size: size Brand:",
+            "poQty": 75,
+            "totalGrnQty": 75,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "33387",
+            "description": "psm Frozen Chicken Chilli Salami 200.0 g Colour: Size: size Brand:TORSO",
+            "poQty": 75,
+            "totalGrnQty": 75,
+            "totalInvoiceQty": 75,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "33388",
+            "description": "psm Frozen Chicken Pepperoni Salami 100.0 g Colour: Size: size Brand:Band_3",
+            "poQty": 120,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "33390",
+            "description": "psm Chicken Seekh Kebab 500.0 g Colour: Size: size Brand:Band_3",
+            "poQty": 272,
+            "totalGrnQty": 272,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "398656",
+            "description": "Meatigo Chicken Drumsticks 450 .0 g Colour: Size: size Brand:",
+            "poQty": 270,
+            "totalGrnQty": 270,
+            "totalInvoiceQty": 270,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "414867",
+            "description": "psm Chinese Veg Spring Rolls 240.0 g Colour: Size: size Brand:",
+            "poQty": 25,
+            "totalGrnQty": 25,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "432518",
+            "description": "Meatigo Chicken Kheema 450.0 g Colour: Size: size Brand:",
+            "poQty": 360,
+            "totalGrnQty": 360,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4459",
+            "description": "psm Original Chicken Momos 24.0 Pieces Colour: Size: size Brand:Band_1",
+            "poQty": 475,
+            "totalGrnQty": 475,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4460",
+            "description": "psm Spicy Chicken Momos 24.0 Pieces Colour: Size: size Brand:Band_1",
+            "poQty": 325,
+            "totalGrnQty": 325,
+            "totalInvoiceQty": 325,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4461",
+            "description": "psm Veg & Paneer Momos 24.0 Pieces Colour: Size: size Brand:Band_2",
+            "poQty": 75,
+            "totalGrnQty": 75,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "453259",
+            "description": "psm Chicken Cheese & Onion Sausage 250.0 g Colour: Size: size Brand:",
+            "poQty": 40,
+            "totalGrnQty": 40,
+            "totalInvoiceQty": 40,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4694",
+            "description": "psm Original Chicken Momos 10.0 Pieces Colour: Size: size Brand:Band_4",
+            "poQty": 450,
+            "totalGrnQty": 450,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4695",
+            "description": "psm Spicy Chicken Momos 10.0 Pieces Colour: Size: size Brand:Band_3",
+            "poQty": 100,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4697",
+            "description": "psm Veg & Paneer Momos 10.0 Pieces Colour: Size: size Brand:Band_2",
+            "poQty": 400,
+            "totalGrnQty": 400,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "469735",
+            "description": "Meatigo Everyday Chicken Breast (Frozen) 150.0 g Colour: Size: size Brand:",
+            "poQty": 90,
+            "totalGrnQty": 90,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4698",
+            "description": "psm Chicken Ham 200.0 g Colour: Size: size Brand:Band_1",
+            "poQty": 150,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4699",
+            "description": "psm Pork Sausage 250.0 g Colour: Size: size Brand:Band_2",
+            "poQty": 40,
+            "totalGrnQty": 40,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4700",
+            "description": "psm Pork Ham 200.0 g Colour: Size: size Brand:Band_1",
+            "poQty": 50,
+            "totalGrnQty": 50,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "4701",
+            "description": "psm Pork Breakfast Bacon 300.0 g Colour: Size: size Brand:Band_1",
+            "poQty": 20,
+            "totalGrnQty": 36,
+            "totalInvoiceQty": 0,
+            "issues": [
+                "GRN qty (36) exceeds PO qty (20)"
+            ],
+            "status": "mismatch"
+        },
+        {
+            "itemCode": "470663",
+            "description": "psm Whole Wheat Momos - Veg & Paneer 330.0 g Colour: Size: size Brand:",
+            "poQty": 80,
+            "totalGrnQty": 40,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "489632",
+            "description": "psm Tandoori Momos - Chicken 280.0 g Colour: Size: size Brand:",
+            "poQty": 35,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "49168",
+            "description": "psm Peri Peri Veg Momos 15.0 Pieces Colour: Size: size Brand:Band_2",
+            "poQty": 80,
+            "totalGrnQty": 80,
+            "totalInvoiceQty": 80,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "498695",
+            "description": "psm Chicken Salami 200.0 g Colour: Size: size Brand:",
+            "poQty": 25,
+            "totalGrnQty": 25,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "$26303",
+            "description": "psm Chicken Pepper & Herb Sausage 250.0 g Colour: Size: size Brand:",
+            "poQty": 20,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "$98770",
+            "description": "psm Pork Breakfast Bacon 150.0 g Colour: Size: size Brand:",
+            "poQty": 36,
+            "totalGrnQty": 36,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "6664",
+            "description": "psm Chicken Sausages 250.0 g Colour: Size: size Brand:Band_2",
+            "poQty": 380,
+            "totalGrnQty": 380,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "6665",
+            "description": "psm Chicken Cheese & Chilli Sausages 250.0 g Colour: Size: size Brand:Band_3",
+            "poQty": 100,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "730016",
+            "description": "psm Whole Wheat Chicken Momos 330.0 g Colour: Size: size Brand:",
+            "poQty": 80,
+            "totalGrnQty": 80,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "750414",
+            "description": "psm Super Saver Chicken Momo Pack (Chef Momos) 1.0 kg Colour: Size: size Brand:",
+            "poQty": 72,
+            "totalGrnQty": 72,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "755774",
+            "description": "psm Chicken & Cheese Momos 540.0 g Colour: Size: size Brand:",
+            "poQty": 25,
+            "totalGrnQty": 25,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "790919",
+            "description": "Meatigo Everyday Fish Fillet 200.0 g Colour: Size: size Brand:",
+            "poQty": 30,
+            "totalGrnQty": 30,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "81521",
+            "description": "psm Peri Peri Chicken Momos 250.0 g Colour: Size: size Brand:Band_4",
+            "poQty": 640,
+            "totalGrnQty": 640,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "89201",
+            "description": "psm Chicken English Breakfast Sausage 1.0 kg Colour: Size: size Brand:Band_2",
+            "poQty": 162,
+            "totalGrnQty": 0,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "205950",
+            "description": "psm Frozen Pork Pepperoni Salami 100.0 g Colour: Size: size Brand:Band_5",
+            "poQty": 40,
+            "totalGrnQty": 40,
+            "totalInvoiceQty": 0,
+            "issues": [],
+            "status": "ok"
+        },
+        {
+            "itemCode": "507809",
+            "description": "psm Pizza Minis Chicken Tikka 180.0 g Colour: Size: size Brand:Band_6",
+            "poQty": 50,
+            "totalGrnQty": 50,
+            "totalInvoiceQty": 50,
+            "issues": [],
+            "status": "ok"
+        }
+    ],
+    "lastUpdated": "2026-06-20T08:16:26.922Z"
+}
